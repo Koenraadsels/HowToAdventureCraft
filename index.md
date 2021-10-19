@@ -20,7 +20,7 @@ Click "Play" in CurseForge
 
 **Step 5:**
 
-Go to "Multiplayer" -> Add Server -> Add our server with IP: 66.248.196.133
+Go to "Multiplayer" -> Add Server -> Add our server with IP: `KoenCraft.mcserver.ws`
 
 ## I want to create a colony
 

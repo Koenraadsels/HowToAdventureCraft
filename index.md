@@ -40,4 +40,4 @@ Should look like this:
 
 ## I want to create a colony
 
-### Nice! Colony Guide Comes Here (TBD)
+### Nice! Colony Guide WIP

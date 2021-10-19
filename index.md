@@ -38,6 +38,23 @@ Should look like this:
 
 `\Documents\Curse\Minecraft\Instances\Adventures and Dungeons A&D\mods`
 
+## What are the modpacks features?
+
+### Simple!
+
+Featuring a high quality, challenging and balanced, immersive survival experience with a lot of exploration and lots of dungeons to conquer.
+
+This pack has over 100 hours of challenging gameplay and balanced progression without ever getting boring.
+
+Made with focus on singleplayer and multiplayer playability and low lag, our own servers run at least 15-20 players without any lag.
+
+
+
+- Conquer dungeons and find loot in chests and mineshafts
+- Find many different trinkets, baubles and rare upgrade-able jewelry
+- Curse enchantments play a big role in gearing, they have a chance to appear upon enchanting, so you often wear suboptimal pieces or work around negative effects
+- Obtaining optimal gear is a more difficult and a long-term process
+
 ## I want to create a colony
 
 ### Nice! Colony Guide WIP

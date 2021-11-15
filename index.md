@@ -28,7 +28,7 @@ Go to "Multiplayer" -> Add Server -> Add our server with IP: `KoenCraft.mcserver
 
 **Step 1:** 
 
-Download Xaeros Minimap and Worldmap: [HERE](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/download/3491644) and [HERE](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/download/3491660) 
+Download Xaeros Worldmap and Minimap: [HERE](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/download/3512812) and [HERE](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/download/3511445) 
 
 **Step 2:**
 

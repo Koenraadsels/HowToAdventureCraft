@@ -57,4 +57,4 @@ Made with focus on singleplayer and multiplayer playability and low lag, our own
 
 ## I want to create a colony
 
-### Nice! Colony Guide WIP
+### Nice! Colony Guide WIP -  for now, check: [https://wiki.minecolonies.ldtteam.com/source/tutorials/getting-started](https://wiki.minecolonies.ldtteam.com/source/tutorials/getting-started)

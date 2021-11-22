@@ -1,5 +1,7 @@
 ## I want to have adventures
 
+That is great! [Join our discord](https://discord.gg/XDhCNBXbUG)
+
 ### Installation and Connection Guide
 
 **Step 1:**

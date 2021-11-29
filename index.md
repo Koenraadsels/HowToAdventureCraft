@@ -14,7 +14,7 @@ Download CurseForge: [HERE](https://download.curseforge.com/)
 
 **Step 2:**
 
-Install the newest version of the Adventures and Dungeons pack: [HERE](https://www.curseforge.com/minecraft/modpacks/adventures-and-dungeons-a-d/files) (Currently running version: 4.3!)
+Install the newest version of the Adventures and Dungeons pack: [HERE](https://download.curseforge.com/?addonId=484647&fileId=3505287) (Currently running version: 4.3!)
 
 **Step 3:**
 

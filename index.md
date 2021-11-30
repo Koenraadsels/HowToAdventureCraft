@@ -28,6 +28,10 @@ Click "Play" in CurseForge
 
 Go to "Multiplayer" -> Add Server -> Add our server with IP: `KoenCraft.mcserver.ws`
 
+**Step 0**
+
+Alternatively, you can also use ATLauncher! [HERE](https://atlauncher.com/)
+
 ## What are the modpacks features?
 
 ### Simple!

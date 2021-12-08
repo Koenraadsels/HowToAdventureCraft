@@ -8,13 +8,17 @@ I think that is a splendid idea, you can find their [Patreon Here](https://www.p
 
 ### Installation and Connection Guide
 
+
 **Step 1:**
 
 Download CurseForge: [HERE](https://download.curseforge.com/) 
 
 **Step 2:**
+~All The Mods 7 (1.18)
+Install the newest version of the All The Mods 7 (1.18): [HERE](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7)
 
-Install the newest version of the All The Mods 7: [HERE](https://download.curseforge.com/?addonId=426926&fileId=3529593)
+~SkyColonies (SkyBlocks 1.16)
+Install the newest version of SkyColonies Ultimate 2.0: [HERE](https://www.curseforge.com/minecraft/modpacks/skycolonies-ultimate-pack)
 
 **Step 3:**
 
@@ -26,7 +30,9 @@ Click "Play" in CurseForge
 
 **Step 5:**
 
-Go to "Multiplayer" -> Add Server -> Add our server with IP: `KoenCraft.mcserver.ws`
+Go to "Multiplayer" -> Add Server -> Add our server with IP: 
+~All The Mods 7 (1.18): `atm.PolderCraft.com`
+~SkyColonies Ultimate 2.0 (1.16): `sky.PolderCraft.com`
 
 **Step 0**
 

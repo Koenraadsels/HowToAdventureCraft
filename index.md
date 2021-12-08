@@ -1,13 +1,12 @@
-## I want to have AllTheMods
+## I want to join PolderCraft!
 
 That is great! [Join our discord](https://discord.gg/XDhCNBXbUG)
 
-## I Love Minecolonies and I want to support the developers
+## I Love Minecolonies and I want to support the developers!
 
 I think that is a splendid idea, you can find their [Patreon Here](https://www.patreon.com/minecolonies)
 
 ### Installation and Connection Guide
-
 
 **Step 1:**
 
@@ -41,11 +40,6 @@ Go to "Multiplayer" -> Add Server -> Add our server with IP:
 
 Alternatively, you can also use ATLauncher! [HERE](https://atlauncher.com/)
 
-## What are the modpacks features?
-
-### Simple!
-
-WIP
 
 ## I want to create a colony
 

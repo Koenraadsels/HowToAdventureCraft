@@ -32,9 +32,9 @@ Click "Play" in CurseForge
 
 Go to "Multiplayer" -> Add Server -> Add our server with IP: 
 
-**All The Mods 7 (1.18):** `atm.PolderCraft.com`
+**All The Mods 7 (1.18):** `atm.poldercraft.com`
 
-**SkyColonies Ultimate 2.0 (1.16):** `sky.PolderCraft.com`
+**SkyColonies Ultimate 2.0 (1.16):** `sky.poldercraft.com`
 
 **Step 0**
 

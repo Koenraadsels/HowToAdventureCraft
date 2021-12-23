@@ -1,3 +1,6 @@
+![PolderCraft](./images/poldercraft.png)
+
+
 ## I want to join PolderCraft!
 
 That is great! [Join our discord](https://discord.gg/XDhCNBXbUG)

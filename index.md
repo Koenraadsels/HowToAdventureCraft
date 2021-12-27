@@ -18,7 +18,7 @@ Download CurseForge: [HERE](https://download.curseforge.com/)
 **Step 2:**
 
 **All The Mods 7 (1.18)**
-Install the newest version of the All The Mods 7 (1.18): [HERE](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7)
+Install the hosted version: **0.2.10** of the All The Mods 7 (1.18): [HERE](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7)
 
 **SkyColonies (SkyBlocks 1.16)**
 Install the newest version of SkyColonies Ultimate 2.0: [HERE](https://www.curseforge.com/minecraft/modpacks/skycolonies-ultimate-pack)

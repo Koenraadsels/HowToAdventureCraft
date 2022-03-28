@@ -20,6 +20,7 @@ Download CurseForge: [HERE](https://download.curseforge.com/)
 **All The Mods 7 (1.18)**
 Install the hosted version: **0.2.35** of the All The Mods 7 (1.18): [HERE](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7) - 
 *Version changes often because of updates! For the newest version - check #poldercraft-news on discord*
+
 *Our SkyColonies Server has been Shut-down! We are focusing on our ATM7 server at the moment.*
 
 

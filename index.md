@@ -1,9 +1,9 @@
 ![PolderCraft](./images/poldercraft.png)
 
 
-## I want to join PolderCraft!
+## I want to join **PHGCraft** _(Previously: PolderCraft)_!
 
-That is great! [Join our discord](https://discord.gg/XDhCNBXbUG)
+That is great! [Join our discord](https://discord.gg/G8MvscrxAQ)
 
 ## I Love Minecolonies and I want to support the developers!
 
